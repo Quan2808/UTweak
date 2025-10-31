@@ -1,3 +1,2 @@
-import './autoconfirm.js';
-
-import './tweaks/logoReplace/index.js'
+import './tweaks/autoConfirmWatching/index';
+import './tweaks/logoReplace/index'
